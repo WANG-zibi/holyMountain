@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - PassPoint
+  - Bullet
+  - fenshen
+  - audio
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - bullet
+  - fx
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1003975359
+    locked: 0
+  - name: Maps
+    uniqueID: 544535139
+    locked: 0
+  - name: Player
+    uniqueID: 1129341305
+    locked: 0
+  - name: Corrider
+    uniqueID: 2825412243
+    locked: 0
+  - name: sky4
+    uniqueID: 2656746355
+    locked: 0
+  - name: sky3
+    uniqueID: 943600053
+    locked: 0
+  - name: sky2
+    uniqueID: 1906976593
+    locked: 0
+  - name: sky1
+    uniqueID: 2759774295
+    locked: 0
+  - name: mountain
+    uniqueID: 2144574925
+    locked: 0
+  - name: forest3
+    uniqueID: 218699119
+    locked: 0
+  - name: forest2
+    uniqueID: 761286167
+    locked: 0
+  - name: forest1
+    uniqueID: 2895534479
+    locked: 0
+  - name: UI
+    uniqueID: 1815218365
+    locked: 0
